@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(220, 178, 221);
+}
+
+
+h1{
+   text-align: center;
+   border-color: rgb(192, 101, 154);
+   border-style: groove;
+   border-width: 20px;
+   background-color: rgb(212, 55, 129);
+}
