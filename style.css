@@ -36,5 +36,12 @@ h4{
 }
 
 h5 {
-    font-size: 150%;
+    font-size: 200%;
+}
+
+h6 {
+    font-size:200%;
+   border-color: rgb(226, 43, 195);
+   border-style: groove;
+    background-color:rgb(206, 4, 138) ;
 }
