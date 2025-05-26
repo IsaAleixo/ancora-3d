@@ -42,6 +42,11 @@ h5 {
 h6 {
     font-size:200%;
    border-color: rgb(226, 43, 195);
+   margin-right: 82%;
    border-style: groove;
-    background-color:rgb(206, 4, 138) ;
+    background-color:rgb(206, 4, 138) 
+}
+
+.foto {
+    width: 20%;
 }
